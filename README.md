@@ -1,5 +1,7 @@
 # Density-adaptive-Registration-of-Large-Scale-Point-Clouds-in-Diverse-Outdoor-Environments
 
+[RA-L 25] Density-adaptive-Registration-of-Large-Scale-Point-Clouds-in-Diverse-Outdoor-Environments
+
 We release the codes and scripts used to obtain the metrics reported in the paper.
 
 Please use the following command for installation.
